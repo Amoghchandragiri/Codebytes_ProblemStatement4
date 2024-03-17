@@ -33,7 +33,7 @@ We have created two versions of chat using Kompose chatbot builder:-
 
  Separate panels for doctors and patients are kept for data protection and privacy. Abstraction principle is followed as patients will only be able to see the data of the doctors they have selected and can also go for second opinion.Sessions and authentication of passwords is checked and stored in database. POST method is used for data insertion and retrieval for security concerns. PDO (PHP Data Objects) is a database access layer that provides a fast and consistent interface for accessing and managing databases in PHP applications and is used for streamlining and fast performance.
 
- ## Tech stack 
+ ## Tech stack ##
  ## HTML,CSS,Javascript,PHP,AJAX,MySQL,XAMPP,Bootstrap
  
 ## Chatbot
