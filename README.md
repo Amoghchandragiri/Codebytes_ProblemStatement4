@@ -10,7 +10,7 @@
 https://drive.google.com/file/d/1-DuEzzitkXNFPULcWWeMjFDbugvFpppJ/view?usp=sharing, 
 ## Doctor uploading and updating patient's records
 https://drive.google.com/file/d/119vUWsLgN_TZQXIUhz3z_XjV_2XarRNc/view?usp=sharing, 
-## Doctor Signin
+## Patient Login
 https://drive.google.com/file/d/12TpKm_SEYiw4417f0yo7h0Bk36myPgwr/view?usp=sharing,
 ## Frontpage
 https://drive.google.com/file/d/1Ixn-2t--5tAavbSNFqiJ-F_QuFj_PLpG/view?usp=sharing, 
