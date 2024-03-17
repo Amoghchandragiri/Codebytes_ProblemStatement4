@@ -21,7 +21,7 @@ We have created two versions of chat using Kompose chatbot builder:-
    It gives answers to questions and can improvise itself. Most suited for asking a variety of questions.
 
 ## 2) Alexa 3.0:-
-    More powerful than Alexa 3.0. It can combine multiple texts and give answers to questions based on previous inputs and predict what the user intends to questiion.   
+    More powerful than Alexa 2.0. It can combine multiple texts and give answers to questions based on previous inputs and predict what the user intends to questiion.   
 
   Both Alex 2.0 and Alexa 3.0 are user-generated chats.
 
