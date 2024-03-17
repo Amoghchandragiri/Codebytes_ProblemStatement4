@@ -1,4 +1,4 @@
-﻿# MediRecord - Your Personal Health Vault
+﻿## MediRecord - Your Personal Health Vault
  Healthcare is essential in daily life.MediRecord is a platform dedicated to simplifying healthcare management for patients. Our application offers a user-friendly interface for storing, managing, and securely sharing medical records. With a focus on ease of use, security, and compliance, we aim to empower patients to take control of their health journey. Join us in revolutionizing healthcare management and improving patient outcomes.
  
 The proposed idea is to create a system with Dialog Flow that can meet the patients requirements and also create an inventory for doctors to view,manage and cancel their appointments. Patients can see their bookings whether their appointment is approved or not. Notes-sharing system has been integrated which will send receipts, appointment confirmation in pdf format. It will improve the traditional infrastructure of the healthcare management system and give personalized recommendations. Chatbot is built with medical applications having the potential to reduce healthcare cost and improves accessibility to medical knowledge by a simple chat through method. Chatbots are useful for patients and for those who want to learn more about health. Hence, people will have an idea about their health and have the right protection and prevention.
@@ -37,7 +37,9 @@ We have created two versions of chat using Kompose chatbot builder:-
  ## HTML,CSS,Javascript,PHP,AJAX,MySQL,XAMPP,Bootstrap
  
 ## Chatbot
-https://drive.google.com/file/d/1-DuEzzitkXNFPULcWWeMjFDbugvFpppJ/view?usp=sharing, 
+~~~
+https://drive.google.com/file/d/1-DuEzzitkXNFPULcWWeMjFDbugvFpppJ/view?usp=sharing,
+~~~
 ## Patient deleting the records after seeing them 
 https://drive.google.com/file/d/119vUWsLgN_TZQXIUhz3z_XjV_2XarRNc/view?usp=sharing, 
 ## Patient Login
