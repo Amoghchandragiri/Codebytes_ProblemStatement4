@@ -3,7 +3,7 @@
  
 The proposed idea is to create a system with Dialog Flow that can meet the patients requirements and also create an inventory for doctors to view,manage and cancel their appointments. Patients can see their bookings whether their appointment is approved or not. Notes-sharing system has been integrated which will send receipts, appointment confirmation in pdf format. It will improve the traditional infrastructure of the healthcare management system and give personalized recommendations. Chatbot is built with medical applications having the potential to reduce healthcare cost and improves accessibility to medical knowledge by a simple chat through method. Chatbots are useful for patients and for those who want to learn more about health. Hence, people will have an idea about their health and have the right protection and prevention.
 
-##Kommunicate.io[ Plugin integrated with PHP]
+## Kommunicate.io[ Plugin integrated with PHP]
 
 Kommunicate is a generative AI-powered automation platform for customer support.Its mission is to build long-lasting customer relationships that drive growth.
 It's features are:-
@@ -17,12 +17,13 @@ It's features are:-
 Kommunicate uses OpenAI’s GPT4 large language model to train the bot on your provided data. This ensures that the bot gives accurate and contextual information to your customers.
 
 We have created two versions of chat using Kompose chatbot builder:-
-##1) Alexa 2.0:-
+## 1) Alexa 2.0:-
    It gives answers to questions and can improvise itself. Most suited for asking a variety of questions.
 
-##2) Alexa 3.0:-
+## 2) Alexa 3.0:-
     More powerful than Alexa 3.0. It can combine multiple texts and give answers to questions based on previous inputs and predict what the user intends to questiion.   
 
+ ## Both Alex 2.0 and Alexa 3.0 are user-generated chats.
 
 1)Health Care Record Management: Store, manage, and access your health records securely in one place
 2)Chat Bot Assistant: Interact with a chat bot assistant for quick queries and assistance.
