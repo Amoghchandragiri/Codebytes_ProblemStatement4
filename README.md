@@ -8,7 +8,7 @@
  
 ## Chatbot
 https://drive.google.com/file/d/1-DuEzzitkXNFPULcWWeMjFDbugvFpppJ/view?usp=sharing, 
-## Doctor uploading and updating patient's records
+## Patient deleting the records after seeing them 
 https://drive.google.com/file/d/119vUWsLgN_TZQXIUhz3z_XjV_2XarRNc/view?usp=sharing, 
 ## Patient Login
 https://drive.google.com/file/d/12TpKm_SEYiw4417f0yo7h0Bk36myPgwr/view?usp=sharing,
@@ -16,7 +16,7 @@ https://drive.google.com/file/d/12TpKm_SEYiw4417f0yo7h0Bk36myPgwr/view?usp=shari
 https://drive.google.com/file/d/1Ixn-2t--5tAavbSNFqiJ-F_QuFj_PLpG/view?usp=sharing, 
 ## Database of doctors information
 https://drive.google.com/file/d/1MOsbIeoQZYeLvdwe-PBN6nNtZgzVbOTt/view?usp=sharing, 
-## Patients updating their profile and uploading the recors of their problems
+## Patients updating their profile and uploading the records of their problems
 https://drive.google.com/file/d/1WCQ4ElgE_3VIm5TTFI3Q6Hg55eOU-RYj/view?usp=sharing, 
 ## Database where patient report is uploaded
 https://drive.google.com/file/d/1_x7e6CeBxtU5JIpHGbvqE5Hzr6wESOlY/view?usp=sharing,
