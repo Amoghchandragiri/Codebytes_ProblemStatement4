@@ -3,10 +3,28 @@
 
  Separate panels for doctor, patients and admins are kept for data protection and privacy. Abstraction principle is followed as patients will only be able to see the data of the doctors they have selected and can also go for second opinion.
 
- ~~Tech stack
+ ## Tech stack 
  HTML,CSS,Javascript,PHP,AJAX,MySQL,XAMPP,Bootstrap
- ~~
-
-https://drive.google.com/file/d/1-DuEzzitkXNFPULcWWeMjFDbugvFpppJ/view?usp=sharing, https://drive.google.com/file/d/119vUWsLgN_TZQXIUhz3z_XjV_2XarRNc/view?usp=sharing, https://drive.google.com/file/d/12TpKm_SEYiw4417f0yo7h0Bk36myPgwr/view?usp=sharing, https://drive.google.com/file/d/1Ixn-2t--5tAavbSNFqiJ-F_QuFj_PLpG/view?usp=sharing, https://drive.google.com/file/d/1MOsbIeoQZYeLvdwe-PBN6nNtZgzVbOTt/view?usp=sharing, https://drive.google.com/file/d/1WCQ4ElgE_3VIm5TTFI3Q6Hg55eOU-RYj/view?usp=sharing, https://drive.google.com/file/d/1_x7e6CeBxtU5JIpHGbvqE5Hzr6wESOlY/view?usp=sharing, https://drive.google.com/file/d/1clEw4enxiY5ZAqxNP1g_YoK_wD8H2wKB/view?usp=sharing, https://drive.google.com/file/d/1gEq08LAzOzUCWD-LjfZhfwYUb34RU6T9/view?usp=sharing, https://drive.google.com/file/d/1ytTCcoCsWpZh01YhEdwZ0IEFNS4vOz1-/view?usp=sharing
+ 
+## Chatbot
+https://drive.google.com/file/d/1-DuEzzitkXNFPULcWWeMjFDbugvFpppJ/view?usp=sharing, 
+## Patient Login
+https://drive.google.com/file/d/119vUWsLgN_TZQXIUhz3z_XjV_2XarRNc/view?usp=sharing, 
+## Patient upload
+https://drive.google.com/file/d/12TpKm_SEYiw4417f0yo7h0Bk36myPgwr/view?usp=sharing,
+## Frontpage
+https://drive.google.com/file/d/1Ixn-2t--5tAavbSNFqiJ-F_QuFj_PLpG/view?usp=sharing, 
+## Doctor login and view reports
+https://drive.google.com/file/d/1MOsbIeoQZYeLvdwe-PBN6nNtZgzVbOTt/view?usp=sharing, 
+## Patient delete
+https://drive.google.com/file/d/1WCQ4ElgE_3VIm5TTFI3Q6Hg55eOU-RYj/view?usp=sharing, 
+## Database where patient report is uploaded
+https://drive.google.com/file/d/1_x7e6CeBxtU5JIpHGbvqE5Hzr6wESOlY/view?usp=sharing,
+## Database showing patients booking
+https://drive.google.com/file/d/1clEw4enxiY5ZAqxNP1g_YoK_wD8H2wKB/view?usp=sharing, 
+## Database showing various specializations of doctors in Medicare
+https://drive.google.com/file/d/1gEq08LAzOzUCWD-LjfZhfwYUb34RU6T9/view?usp=sharing,
+## Database showing various doctors with their names 
+https://drive.google.com/file/d/1ytTCcoCsWpZh01YhEdwZ0IEFNS4vOz1-/view?usp=sharing
 
  
