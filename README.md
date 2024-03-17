@@ -14,7 +14,7 @@ https://drive.google.com/file/d/119vUWsLgN_TZQXIUhz3z_XjV_2XarRNc/view?usp=shari
 https://drive.google.com/file/d/12TpKm_SEYiw4417f0yo7h0Bk36myPgwr/view?usp=sharing,
 ## Database of patients information 
 https://drive.google.com/file/d/1Ixn-2t--5tAavbSNFqiJ-F_QuFj_PLpG/view?usp=sharing, 
-## Doctor login and view reports
+## Database of doctors information
 https://drive.google.com/file/d/1MOsbIeoQZYeLvdwe-PBN6nNtZgzVbOTt/view?usp=sharing, 
 ## Patient delete
 https://drive.google.com/file/d/1WCQ4ElgE_3VIm5TTFI3Q6Hg55eOU-RYj/view?usp=sharing, 
