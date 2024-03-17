@@ -3,6 +3,27 @@
  
 The proposed idea is to create a system with Dialog Flow that can meet the patients requirements and also create an inventory for doctors to view,manage and cancel their appointments. Patients can see their bookings whether their appointment is approved or not. Notes-sharing system has been integrated which will send receipts, appointment confirmation in pdf format. It will improve the traditional infrastructure of the healthcare management system and give personalized recommendations. Chatbot is built with medical applications having the potential to reduce healthcare cost and improves accessibility to medical knowledge by a simple chat through method. Chatbots are useful for patients and for those who want to learn more about health. Hence, people will have an idea about their health and have the right protection and prevention.
 
+##Kommunicate.io[ Plugin integrated with PHP]
+
+Kommunicate is a generative AI-powered automation platform for customer support.Its mission is to build long-lasting customer relationships that drive growth.
+It's features are:-
+1)Generative AI-Powered Chatbot: Build, train, and deploy chatbots without any code. Train the bot on documents, website content, FAQs, and more. It can qualify leads, schedule meetings, and provide 24/7 support1.
+2)Seamless Bot-to-Human Handoff: Kommunicate ensures a smooth transition from bots to human agents, enhancing the overall customer experience1.
+3)Smart Rich Messaging: Communicate with customers using rich media, auto-resolve queries, and leverage webhooks and APIs1.
+4)Analytics and Insights: Powerful analytics for both humans and bots, including AI-powered intent insights1.
+5)Live Chat Integration: Add live chat to your website, allowing real-time conversations with visitors and customers using a beautiful chat widget
+
+
+Kommunicate uses OpenAI’s GPT4 large language model to train the bot on your provided data. This ensures that the bot gives accurate and contextual information to your customers.
+
+We have created two versions of chat using Kompose chatbot builder:-
+##1) Alexa 2.0:-
+   It gives answers to questions and can improvise itself. Most suited for asking a variety of questions.
+
+##2) Alexa 3.0:-
+    More powerful than Alexa 3.0. It can combine multiple texts and give answers to questions based on previous inputs and predict what the user intends to questiion.   
+
+
 1)Health Care Record Management: Store, manage, and access your health records securely in one place
 2)Chat Bot Assistant: Interact with a chat bot assistant for quick queries and assistance.
 3)Doctor Login: Doctors can securely log in to access patient records and provide medical assistance.
