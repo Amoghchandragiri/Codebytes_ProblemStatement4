@@ -30,9 +30,9 @@ https://drive.google.com/file/d/1WCQ4ElgE_3VIm5TTFI3Q6Hg55eOU-RYj/view?usp=shari
 https://drive.google.com/file/d/1_x7e6CeBxtU5JIpHGbvqE5Hzr6wESOlY/view?usp=sharing,
 ## Database showing patients booking
 https://drive.google.com/file/d/1clEw4enxiY5ZAqxNP1g_YoK_wD8H2wKB/view?usp=sharing, 
-## Database showing various specializations of doctors in Medicare
+## Doctors login and viewing of their records and appointments
 https://drive.google.com/file/d/1gEq08LAzOzUCWD-LjfZhfwYUb34RU6T9/view?usp=sharing,
-## Database showing various doctors with their names 
+## Database showing specializations treated by MediRecord
 https://drive.google.com/file/d/1ytTCcoCsWpZh01YhEdwZ0IEFNS4vOz1-/view?usp=sharing
 
  
