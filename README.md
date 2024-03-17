@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1Ixn-2t--5tAavbSNFqiJ-F_QuFj_PLpG/view?usp=shari
 https://drive.google.com/file/d/1MOsbIeoQZYeLvdwe-PBN6nNtZgzVbOTt/view?usp=sharing, 
 ## Patients updating their profile and uploading the records of their problems
 https://drive.google.com/file/d/1WCQ4ElgE_3VIm5TTFI3Q6Hg55eOU-RYj/view?usp=sharing, 
-## Database where patient report is uploaded
+## Landing Page of Medicare
 https://drive.google.com/file/d/1_x7e6CeBxtU5JIpHGbvqE5Hzr6wESOlY/view?usp=sharing,
 ## Database showing patients booking
 https://drive.google.com/file/d/1clEw4enxiY5ZAqxNP1g_YoK_wD8H2wKB/view?usp=sharing, 
